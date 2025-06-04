@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>UltraWhisper Updates</title>
+    <title>ultrawhisper Updates</title>
     <link>https://justin-schrader.github.io/ultrawhisper-updates/appcast.xml</link>
-    <description>Most recent updates to UltraWhisper</description>
+    <description>Most recent updates to ultrawhisper</description>
     <language>en</language>
     
+    <item>
+        <title>Version 1.1.2</title>
+        <sparkle:releaseNotesLink>
+            https://github.com/justin-schrader/ultrawhisper/releases/tag/v1.1.2
+        </sparkle:releaseNotesLink>
+        <pubDate>Wed, 04 Jun 2025 08:07:45 +0000</pubDate>
+        <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+        <enclosure url="https://justin-schrader.github.io/ultrawhisper-updates/releases/v1.1.2/UltraWhisper-1.1.2.zip"
+                   sparkle:version="1.1.2"
+                   sparkle:shortVersionString="1.1.2"
+                   sparkle:edSignature="UVi5PbYO2yhV5BsNi9bZCmTyWXt2qXvi4wKoOskK03Gt7Wo0QyPqV7IjTtGjcajMPxfmZ6HF3+6tAf0KOBhBCw=="
+                   length="4389256"
+                   type="application/octet-stream" />
+    </item>
     <item>
         <title>Version 1.1.1</title>
         <sparkle:releaseNotesLink>
