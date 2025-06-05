@@ -7,6 +7,20 @@
     <language>en</language>
     
     <item>
+        <title>Version 1.1.6</title>
+        <sparkle:releaseNotesLink>
+            https://github.com/justin-schrader/ultrawhisper/releases/tag/v1.1.6
+        </sparkle:releaseNotesLink>
+        <pubDate>Thu, 05 Jun 2025 05:05:28 +0000</pubDate>
+        <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+        <enclosure url="https://justin-schrader.github.io/ultrawhisper-updates/releases/v1.1.6/UltraWhisper-1.1.6.zip"
+                   sparkle:version="1.1.6"
+                   sparkle:shortVersionString="1.1.6"
+                   sparkle:edSignature="Gh09Rimr+DBG/j/G/JWKmnm8R9wSnOPwkMkjD6Iq+aCoy/lwwaNyGLUNv2bh1y33s/zjL2T4c/xtcGOP7/maDw=="
+                   length="2374477"
+                   type="application/octet-stream" />
+    </item>
+    <item>
         <title>Version 1.1.5</title>
         <sparkle:releaseNotesLink>
             https://github.com/justin-schrader/ultrawhisper/releases/tag/v1.1.5
